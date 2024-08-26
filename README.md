@@ -44,6 +44,7 @@ After running the script, follow the on-screen prompts:
 
 Screenshots
 Example_1 Scraping Movie and saving in CSV: ![image](https://github.com/user-attachments/assets/d7fba25c-168a-4e23-8318-b1d60ca881ae)
+
 Example_2 Top Movies showing for the selected Genre image: ![image](https://github.com/user-attachments/assets/9d5fa9a9-bee9-4fd4-8c68-04417f21def6)
 
 
@@ -54,4 +55,4 @@ The application includes error handling for:
 - User Input: If the user inputs a genre not available in the predefined list.
 
 Conclusion
-This project showcases the power of Python for web scraping, data processing, and creating interactive applications. By integrating multiple Python libraries, the Movie Genre Recommendation System provides users with a simple yet effective tool to explore top movies across various genres.
+- This project showcases the power of Python for web scraping, data processing, and creating interactive applications. By integrating multiple Python libraries, the Movie Genre Recommendation System provides users with a simple yet effective tool to explore top movies across various genres.
